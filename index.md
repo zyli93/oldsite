@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/zyli93/zyli93.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hey there! Welcome to Zeyu Li's Homepage!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a third-year Ph.D. student in Computer Science Department at UCLA, advised by [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang).
+I am enthusiastic about applying cutting-edge machine learning algorithms to large scale data mining problems.
+The goal of my research is to enable fast, accuarate, and elegant knowledge extraction and acquisition in real-life data
+sources through modern machine learning technique.
 
-### Markdown
+Before joining UCLA at 2016, I got my BS in Computer Science at Harbin Institute of Technology under the supervision of 
+[Prof. Hongzhi Wang](http://homepage.hit.edu.cn/pages/wang). I worked on data quality and data cleaning algorithms.
+My CV is [here](./pdfs/cv.pdf).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### News!
+- [Nov. 2018] One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
+- [Oct. 2018] Came back from China after a nice vacation!
+- [Sept. 2018] Finished an AMAZING internship with Intuit!
 
-```markdown
-Syntax highlighted code block
+### More
+You can find my publications list [here](./pages/publications.html).
+And [here](./blogs/blog_index.html) are some of my posts.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyli93/zyli93.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+- Office: 3531 Boelter Hall, 420 Westwood Plaza, Los Angeles, CA, 90066
+- Email: zyli [AT] cs [DOT] ucla [DOT] edu
