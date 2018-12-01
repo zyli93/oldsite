@@ -7,11 +7,10 @@ I am enthusiastic about applying cutting-edge machine learning algorithms to lar
 The goal of my research is to enable fast, accuarate, and elegant knowledge extraction and acquisition in real-life data
 sources through modern machine learning technique.
 
-Before joining UCLA at 2016, I got my BS in Computer Science at Harbin Institute of Technology under the supervision of 
+Before joining UCLA at 2016, I got my B.S. in Computer Science at Harbin Institute of Technology under the supervision of 
 [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/pages/wang). I worked on data quality and data cleaning algorithms.
-My CV is [here](./pdfs/cv.pdf).
+My complete Resume is [here](./pdfs/cv.pdf).
 
-My Chinese name is 李泽宇. I was born and raised in Shijiazhuang, Hebei Province, China. I am an alumnus of No. 2 High School of SJZ (石家庄二中) and No. 40 Middle School in SJZ (石家庄市第四十中学).
 
 ### News!
 - **[Nov. 2018]** One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
@@ -26,6 +25,8 @@ My Chinese name is 李泽宇. I was born and raised in Shijiazhuang, Hebei Provi
 You can find my publications list [here](./pages/publications.html).
 
 ### Miscellaneous
-- Here's a [link](https://help.github.com/articles/basic-writing-and-formatting-syntax) to MD syntax just in case.
+- My name is written as "李泽宇" in Chinese. I was born and raised in Shijiazhuang, Hebei, China. 
+- I am an alumnus of No. 2 High School in SJZ (石家庄二中) and No. 40 Middle School in SJZ (石家庄市第四十中学).
+- Here's a [link](https://help.github.com/articles/basic-writing-and-formatting-syntax) to Markdown syntax just in case.
 - [Here](./blogs/blog_index.html) are some of my posts.
 
