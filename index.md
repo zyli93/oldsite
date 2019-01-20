@@ -9,7 +9,7 @@ sources through modern machine learning technique.
 
 Before joining UCLA at 2016, I got my B.S. in Computer Science at Harbin Institute of Technology under the supervision of 
 [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/pages/wang). I worked on data quality and data cleaning algorithms.
-My complete Resume is [here](./pdfs/cv.pdf).
+My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 
 
 ### News!
@@ -23,6 +23,13 @@ My complete Resume is [here](./pdfs/cv.pdf).
 
 ### Publications
 You can find my publications list [here](./pages/publications.html).
+
+### Teaching
+- [Fall 2017] CS130: Software Engineering by [Prof. Miryung Kim](http://web.cs.ucla.edu/~miryung/index.html). [Website](http://web.cs.ucla.edu/~miryung/teaching/CS130-Fall2017/main.html)
+- [Winter 2018] CS 262A: Learning and Reasoning with Bayesian Networks by [Dr. Adnan Darwiche](http://web.cs.ucla.edu/~darwiche/).
+- [Spring 2018] CS130: Software Engineering by [Prof. Paul Eggert](https://samueli.ucla.edu/people/paul-eggert/). [Website](http://web.cs.ucla.edu/classes/spring18/cs130/)
+- [Fall 2018] CS1: Freshmen Computer Science Seminar by professors at UCLA CS Department.
+- [Winter 2019] CS M146: Introduction to Machine Learning by [Prof. Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/). [Website](http://web.cs.ucla.edu/~sriram/courses/cm146.winter-2019/html/index.html)
 
 ### Miscellaneous
 - My name is written as "李泽宇" in Chinese. I was born and raised in Shijiazhuang, Hebei, China. 
