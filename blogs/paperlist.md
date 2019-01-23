@@ -2,6 +2,11 @@
 
 Zeyu Li's Personal Paper List
 
+## Some awesome paper lists
+
+1. Heterogeneous Information Network Embedding: Methods and Implements. [link](https://github.com/zhoushengisnoob/HINE)
+2. Implementations of some RecSys model. [link](https://github.com/princewen/tensorflow_practice)
+
 ## Interpretable Machine Learning
 
 ### NeuIPS 2018
