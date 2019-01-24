@@ -19,3 +19,6 @@ Zeyu Li's Personal Paper List
 4. [Human-in-the-Loop Interpretability Prior](https://papers.nips.cc/paper/8219-human-in-the-loop-interpretability-prior.pdf)
 
 5. [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
+
+
+[Back](../index.html)
