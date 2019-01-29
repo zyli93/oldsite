@@ -20,5 +20,8 @@ Zeyu Li's Personal Paper List
 
 5. [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
 
+## AAAI-19 Open Sourced Tutorials
+Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
+
 
 [Back](../index.html)
