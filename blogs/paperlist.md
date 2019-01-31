@@ -2,6 +2,11 @@
 
 Zeyu Li's Personal Paper List
 
+## Some awesome paper lists
+
+1. Heterogeneous Information Network Embedding: Methods and Implements. [link](https://github.com/zhoushengisnoob/HINE)
+2. Implementations of some RecSys model. [link](https://github.com/princewen/tensorflow_practice)
+
 ## Interpretable Machine Learning
 
 ### NeuIPS 2018
@@ -14,3 +19,9 @@ Zeyu Li's Personal Paper List
 4. [Human-in-the-Loop Interpretability Prior](https://papers.nips.cc/paper/8219-human-in-the-loop-interpretability-prior.pdf)
 
 5. [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
+
+## AAAI-19 Open Sourced Tutorials
+Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
+
+
+[Back](../index.html)

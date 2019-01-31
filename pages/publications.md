@@ -3,10 +3,9 @@
 _**Zeyu Li**, Jyun-Yu Jiang, Yizhou Sun, Wei Wang._
 **Personalized Question Routing via Network Embedding**,
 _Thirty-Third AAAI Conference on Artificial Intelligence_ **[AAAI'19]**
-(Oral presentation, 460/7095≈6.0%)
-`[pdf]`(http://web.cs.ucla.edu/~yzsun/papers/2019_AAAI_QR.pdf)
+[`[pdf]`](http://web.cs.ucla.edu/~yzsun/papers/2019_AAAI_QR.pdf)
 [`[code]`](https://github.com/zyli93/NeRank)
-`[slides]`(../pdfs/ZeyuLi_AAAI19.pdf)
+[`[slides]`](../pdfs/ZeyuLi_AAAI19.pdf)
 
 _Jieyu Zhao, Yichao Zhou, **Zeyu Li**, Wei Wang, Kai-Wei Chang._
 **Learning Gender-Neutral Word Embedding**,
