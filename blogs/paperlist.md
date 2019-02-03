@@ -23,5 +23,8 @@ Zeyu Li's Personal Paper List
 ## AAAI-19 Open Sourced Tutorials
 Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
 
+1. Explainable AI tutorial. [Here](https://xaitutorial2019.github.io/)
+2. Graph Representation Learning. [Dr. Jian Tang's homepage](https://jian-tang.com/)
+
 
 [Back](../index.html)
