@@ -20,6 +20,12 @@ Zeyu Li's Personal Paper List
 
 5. [Uncertainty-Aware Attention for Reliable Interpretation and Prediction](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
 
+### AAAI 2019
+1. Explainable reasoning over knowledge graphs for recommendation. [pdf](https://arxiv.org/pdf/1811.04540.pdf)
+2. Explainable recommendation through attentive multi-view learning. [pdf](https://www.microsoft.com/en-us/research/uploads/prod/2018/10/exrec-aaai-camera-ready.pdf)
+3. Interpreting deep models for text analysis via optimization and regularization methods. [TODO]
+
+
 ## AAAI-19 Open Sourced Tutorials
 Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
 
