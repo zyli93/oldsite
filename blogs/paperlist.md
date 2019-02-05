@@ -10,11 +10,11 @@ Zeyu Li's Personal Paper List
 ## Interpretable Machine Learning
 
 ### NeuIPS 2018
-1. Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability[pdf](https://papers.nips.cc/paper/7822-neural-interaction-transparency-nit-disentangling-learned-interactions-for-improved-interpretability.pdf)
-2. Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples[pdf](https://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples.pdf)
-3. Towards Robust Interpretability with Self-Explaining Neural Networks[pdf](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf)
+1. Neural Interaction Transparency (NIT): Disentangling Learned Interactions for Improved Interpretability [pdf](https://papers.nips.cc/paper/7822-neural-interaction-transparency-nit-disentangling-learned-interactions-for-improved-interpretability.pdf)
+2. Attacks Meet Interpretability: Attribute-steered Detection of Adversarial Samples [pdf](https://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples.pdf)
+3. Towards Robust Interpretability with Self-Explaining Neural Networks [pdf](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf)
 4. Human-in-the-Loop Interpretability Prior [pdf](https://papers.nips.cc/paper/8219-human-in-the-loop-interpretability-prior.pdf)
-5. Uncertainty-Aware Attention for Reliable Interpretation and Prediction[pdf](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
+5. Uncertainty-Aware Attention for Reliable Interpretation and Prediction [pdf](https://papers.nips.cc/paper/7370-uncertainty-aware-attention-for-reliable-interpretation-and-prediction.pdf)
 
 ### AAAI 2019
 1. Explainable reasoning over knowledge graphs for recommendation. [pdf](https://arxiv.org/pdf/1811.04540.pdf)
