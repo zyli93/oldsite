@@ -32,5 +32,9 @@ Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
 1. Explainable AI tutorial. [Here](https://xaitutorial2019.github.io/)
 2. Graph Representation Learning. [Dr. Jian Tang's homepage](https://jian-tang.com/)
 
+## Conference Accepted Paper List
+
+1. AAAI 2019 [H](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
+
 
 [Back](../index.html)
