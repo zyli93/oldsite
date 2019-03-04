@@ -13,6 +13,7 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 
 
 ### News!
+- **[Feb. 2019]** One paper submitted to KDD'19 and one paper submitted to IJCAI'19.
 - **[Nov. 2018]** One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
 - **[Oct. 2018]** Came back from China after a nice vacation!
 - **[Sept. 2018]** Finished an AMAZING internship with Intuit!
@@ -30,6 +31,10 @@ You can find my publications list [here](./pages/publications.html).
 - [Spring 2018] CS130: Software Engineering by [Prof. Paul Eggert](https://samueli.ucla.edu/people/paul-eggert/). [Website](http://web.cs.ucla.edu/classes/spring18/cs130/)
 - [Fall 2018] CS1: Freshmen Computer Science Seminar by professors at UCLA CS Department.
 - [Winter 2019] CS M146: Introduction to Machine Learning by [Prof. Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/). [Website](http://web.cs.ucla.edu/~sriram/courses/cm146.winter-2019/html/index.html)
+
+### Awards
+1. AAAI'19 Student Travel Grant
+2. VLDB'16 Student Travel Grant
 
 ### Miscellaneous
 - My name is written as "李泽宇" in Chinese. I was born and raised in Shijiazhuang, Hebei, China. 

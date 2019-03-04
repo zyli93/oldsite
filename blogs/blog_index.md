@@ -5,6 +5,7 @@
 Title | Link | Update Time
 ------|------|------
 Zeper | [Link](./paperlist.html) | Jan, 2019
+Julia notes | [Link](./julia_notes.html) | Feb, 2019
 
 
 
