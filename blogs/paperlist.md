@@ -37,4 +37,9 @@ Click [here](https://aaai.org/Conferences/AAAI-19/aaai19tutorials/)
 1. AAAI 2019 [H](https://aaai.org/Conferences/AAAI-19/wp-content/uploads/2018/11/AAAI-19_Accepted_Papers.pdf)
 
 
+## Awesome slides (thanks to the authors)
+
+1. How to compute a derivative. [Here](../pdfs/How_to_compute_a_derivative.pdf)
+
+
 [Back](../index.html)
