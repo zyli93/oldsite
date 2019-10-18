@@ -2,7 +2,7 @@
 
 Hey there! Welcome to Zeyu Li's Homepage!
 
-I am a third-year Ph.D. student in Computer Science Department at UCLA, advised by [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang).
+I am a Ph.D. candidate in Computer Science Department at UCLA, advised by [Prof. Wei Wang](http://web.cs.ucla.edu/~weiwang).
 I am enthusiastic about applying cutting-edge machine learning algorithms to large scale data mining problems.
 The goal of my research is to enable fast, accuarate, and elegant knowledge extraction and acquisition in real-life data
 sources through modern machine learning technique.
@@ -13,10 +13,12 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 
 
 ### News!
-- **[Feb. 2019]** One paper submitted to KDD'19 and one paper submitted to IJCAI'19.
+- **[Oct. 2019]** One paper accepted by WSDM'20. See you in Houston!
+- **[Oct. 2019]** Passed Oral Qualifying Exam, now a Ph.D. Candidate!
+- **[Sept. 2019]** Served as PC members for WSDM'20 and AAAI'20.
+- **[Sept. 2019]** Finished an AMAZING internship at Adobe Research!
 - **[Nov. 2018]** One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
-- **[Oct. 2018]** Came back from China after a nice vacation!
-- **[Sept. 2018]** Finished an AMAZING internship with Intuit!
+- **[Sept. 2018]** Finished an AMAZING internship at Intuit!
 
 ### Contact
 - Office: 3531 Boelter Hall, 420 Westwood Plaza, Los Angeles, CA, 90066
@@ -31,6 +33,7 @@ You can find my publications list [here](./pages/publications.html).
 - [Spring 2018] CS130: Software Engineering by [Prof. Paul Eggert](https://samueli.ucla.edu/people/paul-eggert/). [Website](http://web.cs.ucla.edu/classes/spring18/cs130/)
 - [Fall 2018] CS1: Freshmen Computer Science Seminar by professors at UCLA CS Department.
 - [Winter 2019] CS M146: Introduction to Machine Learning by [Prof. Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/). [Website](http://web.cs.ucla.edu/~sriram/courses/cm146.winter-2019/html/index.html)
+- [Sprint 2019] CS 247: Advanced Data Mining by [Prof. Yizhou Sun](http://web.cs.ucla.edu/~yzsun/). [Website](https://sites.google.com/view/cs-247/home)
 
 ### Awards
 1. AAAI'19 Student Travel Grant
