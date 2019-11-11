@@ -3,7 +3,9 @@
 _**Zeyu Li**, Wei Cheng, Yang Chen, Haifeng Chen, Wei Wang._
 **Interpretable Click-Through Rate Prediction through Hierarchical Attention**,
 _13th ACM International WSDM Conference_ **[WSDM'20]**
-[`[pdf]`][`[code]`][`[slides]`] (To come)
+[`[pdf]`](../pdfs/ZeyuLi_WSDM20_InterHAt.pdf)
+[`[code]`](https://github.com/zyli93/InterHAt)
+[`[slides]`]
 
 _**Zeyu Li**, Jyun-Yu Jiang, Yizhou Sun, Wei Wang._
 **Personalized Question Routing via Network Embedding**,
