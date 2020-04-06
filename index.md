@@ -27,6 +27,10 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 ### Publications
 You can find my publications list [here](./pages/publications.html).
 
+### Services
+- PC Members: WSDM 2020, AAAI 2020, SIGIR 2020, ECML-PKDD 2020
+- External reviewer: ICDM2019
+
 ### Teaching
 - [Fall 2017] CS130: Software Engineering by [Prof. Miryung Kim](http://web.cs.ucla.edu/~miryung/index.html). [Website](http://web.cs.ucla.edu/~miryung/teaching/CS130-Fall2017/main.html)
 - [Winter 2018] CS 262A: Learning and Reasoning with Bayesian Networks by [Dr. Adnan Darwiche](http://web.cs.ucla.edu/~darwiche/).
