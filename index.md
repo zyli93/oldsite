@@ -48,4 +48,5 @@ You can find my publications list [here](./pages/publications.html).
 - I am an alumnus of No. 2 High School in SJZ (石家庄二中) and No. 40 Middle School in SJZ (石家庄市第四十中学).
 - Here's a [link](https://help.github.com/articles/basic-writing-and-formatting-syntax) to Markdown syntax just in case.
 - [Here](./blogs/blog_index.html) are some of my posts.
+- [Here](./pdfs/tips_server.pdf) is how to use ScAi servers.
 
