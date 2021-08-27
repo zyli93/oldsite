@@ -15,12 +15,6 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 ### News!
 - **[Aug. 2021]** No news is good news during this devastating COVID-19 pandemic.
 - **[Aug. 2021]** No older news.
-<!-- - **[Oct. 2019]** One paper accepted by WSDM'20. See you in Houston!
-- **[Oct. 2019]** Passed Oral Qualifying Exam, now a Ph.D. Candidate!
-- **[Sept. 2019]** Served as PC members for WSDM'20 and AAAI'20.
-- **[Sept. 2019]** Finished an AMAZING internship at Adobe Research!
-- **[Nov. 2018]** One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
-- **[Sept. 2018]** Finished an AMAZING internship at Intuit! -->
 
 ### Work Experience.
 - **[Summer 2021]** (Remote) PhD Machine Learning Software Engineer Intern, _Facebook Inc._
