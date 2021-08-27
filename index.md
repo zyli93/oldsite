@@ -13,12 +13,20 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 
 
 ### News!
-- **[Oct. 2019]** One paper accepted by WSDM'20. See you in Houston!
+- **[Aug. 2021]** No news is good news during this devastating COVID-19 pandemic.
+- **[Aug. 2021]** No older news.
+<!-- - **[Oct. 2019]** One paper accepted by WSDM'20. See you in Houston!
 - **[Oct. 2019]** Passed Oral Qualifying Exam, now a Ph.D. Candidate!
 - **[Sept. 2019]** Served as PC members for WSDM'20 and AAAI'20.
 - **[Sept. 2019]** Finished an AMAZING internship at Adobe Research!
 - **[Nov. 2018]** One paper accepted by [AAAI'19](https://aaai.org/Conferences/AAAI-19). See you in Honolulu!
-- **[Sept. 2018]** Finished an AMAZING internship at Intuit!
+- **[Sept. 2018]** Finished an AMAZING internship at Intuit! -->
+
+### Work Experience.
+- **[Summer 2021]** (Remote) PhD Machine Learning Software Engineer Intern, _Facebook Inc._
+- **[Summer 2020]** (Remote) PhD Machine Learning Software Engineer Intern, _Facebook Inc._
+- **[Summer 2019]** Research Intern, _Adobe Research_.
+- **[Summer 2018]** Data Scientist Intern, _Intuit Inc._. 
 
 ### Contact
 - Office: 3531 Boelter Hall, 420 Westwood Plaza, Los Angeles, CA, 90066
@@ -28,7 +36,9 @@ My complete Resume is [here](./pdfs/Resume-Zeyu.pdf).
 You can find my publications list [here](./pages/publications.html).
 
 ### Services
-- PC Members: WSDM 2020, AAAI 2020, SIGIR 2020, ECML-PKDD 2020
+- PC Members: 
+  - 2021: ECML-PKDD 2021, SIGIR 2021, WSDM 2021, KDD 2021
+  - 2020: KDD 2020, WSDM 2020, AAAI 2020, SIGIR 2020, ECML-PKDD 2020
 - External reviewer: ICDM2019
 
 ### Teaching

@@ -1,5 +1,32 @@
 # Publications
 
+_**Zeyu Li**, Yilong Qin, Zihan Liu, Wei Wang._
+**Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction**.
+In _The 2021 Conference on Empirical Methods in Natural Language Processing_ **[EMNLP'21]**
+[`[pdf]`](https://zyli93.github.io/pages/publications.html)
+[`[code]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](https://zyli93.github.io/pages/publications.html)
+
+_**Zeyu Li**, Wei Cheng, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang._
+**Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer**.
+In _The 2021 Conference on Empirical Methods in Natural Language Processing: Findings_ **[Findings of EMNLP'21]**
+[`[pdf]`](https://zyli93.github.io/pages/publications.html)
+[`[code]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](https://zyli93.github.io/pages/publications.html)
+
+_**Zeyu Li**, Wei Cheng, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang._
+**You Are What and Where You Are: Graph Enhanced AttentionNetwork for Explainable POI Recommendation**,
+In _Proceedings of The 30th ACM International Conference on Information and Knowledge Management_ **[CIKM'21]**
+[`[pdf]`](https://zyli93.github.io/pages/publications.html)
+[`[code]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](https://zyli93.github.io/pages/publications.html)
+
+_Jyun-Yu Jiang, **Zeyu Li**, Chelsea J.-T. Ju and Wei Wang._ **MARU: Meta-context Aware Random Walks for Heterogeneous Network Representation Learning.** In _Proceedings of The 29th ACM International Conference on Information and Knowledge Management_ **[CIKM'20]**
+[`[pdf]`](https://jyunyu.csie.org/docs/pubs/cikm2020paper.pdf)
+[`[code]`](https://github.com/hallogameboy/MARU)
+[`[slides]`](https://jyunyu.csie.org/docs/pubs/cikm2020slides.pdf)
+
+
 _**Zeyu Li**, Wei Cheng, Yang Chen, Haifeng Chen, Wei Wang._
 **Interpretable Click-Through Rate Prediction through Hierarchical Attention**,
 _13th ACM International WSDM Conference_ **[WSDM'20]**
