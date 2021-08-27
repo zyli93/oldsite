@@ -1,17 +1,17 @@
 # Publications
 
 _**Zeyu Li**, Yilong Qin, Zihan Liu, Wei Wang._
-**Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction**.
+**Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer**.
 In _The 2021 Conference on Empirical Methods in Natural Language Processing_ **[EMNLP'21]**
 [`[pdf]`](https://zyli93.github.io/pages/publications.html)
-[`[code]`](https://zyli93.github.io/pages/publications.html)
+[`[code]`](https://github.com/zyli93/SAECON)
 [`[slides]`](https://zyli93.github.io/pages/publications.html)
 
 _**Zeyu Li**, Wei Cheng, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang._
-**Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer**.
+**Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction**.
 In _The 2021 Conference on Empirical Methods in Natural Language Processing: Findings_ **[Findings of EMNLP'21]**
 [`[pdf]`](https://zyli93.github.io/pages/publications.html)
-[`[code]`](https://zyli93.github.io/pages/publications.html)
+[`[code]`](https://github.com/zyli93/ASPE-APRE)
 [`[slides]`](https://zyli93.github.io/pages/publications.html)
 
 _**Zeyu Li**, Wei Cheng, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang._
