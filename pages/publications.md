@@ -1,8 +1,8 @@
 # Publications
 
-_**Zeyu Li**, Yilong Qin, Zihan Liu, Wei Wang._
+_**Zeyu Li**, Yilong Qin*, Zihan Liu*, Wei Wang._
 **Powering Comparative Classification with Sentiment Analysis via Domain Adaptive Knowledge Transfer**.
-In _The 2021 Conference on Empirical Methods in Natural Language Processing_ **[EMNLP'21]**
+In _The 2021 Conference on Empirical Methods in Natural Language Processing_ **[EMNLP'21]** (\*Equal Contribution)
 [`[pdf]`](https://zyli93.github.io/pages/publications.html)
 [`[code]`](https://github.com/zyli93/SAECON)
 [`[slides]`](https://zyli93.github.io/pages/publications.html)
