@@ -19,7 +19,7 @@ _**Zeyu Li**, Wei Cheng, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang._
 In _Proceedings of The 30th ACM International Conference on Information and Knowledge Management_ **[CIKM'21]**
 [`[pdf]`](../pdfs/cikm2021_geapr.pdf)
 [`[code]`](https://github.com/zyli93/GEAPR)
-[`[slides]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](../pdfs/afp1813.pdf)
 
 _Jyun-Yu Jiang, **Zeyu Li**, Chelsea J.-T. Ju and Wei Wang._ **MARU: Meta-context Aware Random Walks for Heterogeneous Network Representation Learning.** In _Proceedings of The 29th ACM International Conference on Information and Knowledge Management_ **[CIKM'20]**
 [`[pdf]`](https://jyunyu.csie.org/docs/pubs/cikm2020paper.pdf)
