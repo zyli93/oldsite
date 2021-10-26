@@ -5,14 +5,16 @@ _**Zeyu Li**, Yilong Qin*, Zihan Liu*, Wei Wang._
 In _The 2021 Conference on Empirical Methods in Natural Language Processing_ **[EMNLP'21]** (\*Equal Contribution)
 [`[pdf]`](https://arxiv.org/abs/2109.03819)
 [`[code]`](https://github.com/zyli93/SAECON)
-[`[slides]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](../pdfs/emnlp1731_slides.pdf)
+[`[poster]`](../pdfs/emnlp1731_poster.pdf)
 
 _**Zeyu Li**, Wei Cheng, Reema Kshetramade, John Houser, Haifeng Chen, Wei Wang._
 **Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction**.
 In _The 2021 Conference on Empirical Methods in Natural Language Processing: Findings_ **[Findings of EMNLP'21]**
 [`[pdf]`](https://arxiv.org/abs/2109.03821)
 [`[code]`](https://github.com/zyli93/ASPE-APRE)
-[`[slides]`](https://zyli93.github.io/pages/publications.html)
+[`[slides]`](../pdfs/emnlp792_slides.pdf)
+[`[poster]`](../pdfs/emnlp792_poster.pdf)
 
 _**Zeyu Li**, Wei Cheng, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang._
 **You Are What and Where You Are: Graph Enhanced AttentionNetwork for Explainable POI Recommendation**,
